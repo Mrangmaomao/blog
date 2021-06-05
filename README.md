@@ -3,11 +3,11 @@
 # install
   ### step1 安装依赖
     ```
-      npm install
+    npm install
     ```
   ### step2 本地环境配置，--port端口号
     ```
-      hexo serve
+    hexo serve
     ```
 # deploy
   ### 清除文件
