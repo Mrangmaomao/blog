@@ -16,11 +16,11 @@
   ```
   ### 打包
   ```
-      hexo -g
+      hexo g
   ```
   ### 提交到git仓库
   ```
-    hexo -d
+    hexo d
   ```
 # git 配置仓库 
   修改文件 _config.yml
